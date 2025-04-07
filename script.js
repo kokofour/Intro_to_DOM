@@ -20,6 +20,11 @@ console.log(button);
 
 
 
+let paragraphs = document.querySelectorAll("p");
+console.log(paragraphs); 
+
+
+
 
 
 
